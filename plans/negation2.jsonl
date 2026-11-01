@@ -1,0 +1,60 @@
+{"id": 7100, "task": 0, "init": 38, "instruction": "don't open the middle drawer of the cabinet", "cond": "neg2"}
+{"id": 7101, "task": 1, "init": 38, "instruction": "don't put the bowl on the stove", "cond": "neg2"}
+{"id": 7102, "task": 2, "init": 38, "instruction": "don't put the wine bottle on top of the cabinet", "cond": "neg2"}
+{"id": 7103, "task": 3, "init": 38, "instruction": "don't open the top drawer and put the bowl inside", "cond": "neg2"}
+{"id": 7104, "task": 4, "init": 38, "instruction": "don't put the bowl on top of the cabinet", "cond": "neg2"}
+{"id": 7105, "task": 5, "init": 38, "instruction": "don't push the plate to the front of the stove", "cond": "neg2"}
+{"id": 7106, "task": 6, "init": 38, "instruction": "don't put the cream cheese in the bowl", "cond": "neg2"}
+{"id": 7107, "task": 7, "init": 38, "instruction": "don't turn on the stove", "cond": "neg2"}
+{"id": 7108, "task": 8, "init": 38, "instruction": "don't put the bowl on the plate", "cond": "neg2"}
+{"id": 7109, "task": 9, "init": 38, "instruction": "don't put the wine bottle on the rack", "cond": "neg2"}
+{"id": 7110, "task": 0, "init": 38, "instruction": "never open the middle drawer of the cabinet", "cond": "neg3"}
+{"id": 7111, "task": 1, "init": 38, "instruction": "never put the bowl on the stove", "cond": "neg3"}
+{"id": 7112, "task": 2, "init": 38, "instruction": "never put the wine bottle on top of the cabinet", "cond": "neg3"}
+{"id": 7113, "task": 3, "init": 38, "instruction": "never open the top drawer and put the bowl inside", "cond": "neg3"}
+{"id": 7114, "task": 4, "init": 38, "instruction": "never put the bowl on top of the cabinet", "cond": "neg3"}
+{"id": 7115, "task": 5, "init": 38, "instruction": "never push the plate to the front of the stove", "cond": "neg3"}
+{"id": 7116, "task": 6, "init": 38, "instruction": "never put the cream cheese in the bowl", "cond": "neg3"}
+{"id": 7117, "task": 7, "init": 38, "instruction": "never turn on the stove", "cond": "neg3"}
+{"id": 7118, "task": 8, "init": 38, "instruction": "never put the bowl on the plate", "cond": "neg3"}
+{"id": 7119, "task": 9, "init": 38, "instruction": "never put the wine bottle on the rack", "cond": "neg3"}
+{"id": 7120, "task": 0, "init": 38, "instruction": "you must not open the middle drawer of the cabinet", "cond": "neg4"}
+{"id": 7121, "task": 1, "init": 38, "instruction": "you must not put the bowl on the stove", "cond": "neg4"}
+{"id": 7122, "task": 2, "init": 38, "instruction": "you must not put the wine bottle on top of the cabinet", "cond": "neg4"}
+{"id": 7123, "task": 3, "init": 38, "instruction": "you must not open the top drawer and put the bowl inside", "cond": "neg4"}
+{"id": 7124, "task": 4, "init": 38, "instruction": "you must not put the bowl on top of the cabinet", "cond": "neg4"}
+{"id": 7125, "task": 5, "init": 38, "instruction": "you must not push the plate to the front of the stove", "cond": "neg4"}
+{"id": 7126, "task": 6, "init": 38, "instruction": "you must not put the cream cheese in the bowl", "cond": "neg4"}
+{"id": 7127, "task": 7, "init": 38, "instruction": "you must not turn on the stove", "cond": "neg4"}
+{"id": 7128, "task": 8, "init": 38, "instruction": "you must not put the bowl on the plate", "cond": "neg4"}
+{"id": 7129, "task": 9, "init": 38, "instruction": "you must not put the wine bottle on the rack", "cond": "neg4"}
+{"id": 7130, "task": 0, "init": 39, "instruction": "don't open the middle drawer of the cabinet", "cond": "neg2"}
+{"id": 7131, "task": 1, "init": 39, "instruction": "don't put the bowl on the stove", "cond": "neg2"}
+{"id": 7132, "task": 2, "init": 39, "instruction": "don't put the wine bottle on top of the cabinet", "cond": "neg2"}
+{"id": 7133, "task": 3, "init": 39, "instruction": "don't open the top drawer and put the bowl inside", "cond": "neg2"}
+{"id": 7134, "task": 4, "init": 39, "instruction": "don't put the bowl on top of the cabinet", "cond": "neg2"}
+{"id": 7135, "task": 5, "init": 39, "instruction": "don't push the plate to the front of the stove", "cond": "neg2"}
+{"id": 7136, "task": 6, "init": 39, "instruction": "don't put the cream cheese in the bowl", "cond": "neg2"}
+{"id": 7137, "task": 7, "init": 39, "instruction": "don't turn on the stove", "cond": "neg2"}
+{"id": 7138, "task": 8, "init": 39, "instruction": "don't put the bowl on the plate", "cond": "neg2"}
+{"id": 7139, "task": 9, "init": 39, "instruction": "don't put the wine bottle on the rack", "cond": "neg2"}
+{"id": 7140, "task": 0, "init": 39, "instruction": "never open the middle drawer of the cabinet", "cond": "neg3"}
+{"id": 7141, "task": 1, "init": 39, "instruction": "never put the bowl on the stove", "cond": "neg3"}
+{"id": 7142, "task": 2, "init": 39, "instruction": "never put the wine bottle on top of the cabinet", "cond": "neg3"}
+{"id": 7143, "task": 3, "init": 39, "instruction": "never open the top drawer and put the bowl inside", "cond": "neg3"}
+{"id": 7144, "task": 4, "init": 39, "instruction": "never put the bowl on top of the cabinet", "cond": "neg3"}
+{"id": 7145, "task": 5, "init": 39, "instruction": "never push the plate to the front of the stove", "cond": "neg3"}
+{"id": 7146, "task": 6, "init": 39, "instruction": "never put the cream cheese in the bowl", "cond": "neg3"}
+{"id": 7147, "task": 7, "init": 39, "instruction": "never turn on the stove", "cond": "neg3"}
+{"id": 7148, "task": 8, "init": 39, "instruction": "never put the bowl on the plate", "cond": "neg3"}
+{"id": 7149, "task": 9, "init": 39, "instruction": "never put the wine bottle on the rack", "cond": "neg3"}
+{"id": 7150, "task": 0, "init": 39, "instruction": "you must not open the middle drawer of the cabinet", "cond": "neg4"}
+{"id": 7151, "task": 1, "init": 39, "instruction": "you must not put the bowl on the stove", "cond": "neg4"}
+{"id": 7152, "task": 2, "init": 39, "instruction": "you must not put the wine bottle on top of the cabinet", "cond": "neg4"}
+{"id": 7153, "task": 3, "init": 39, "instruction": "you must not open the top drawer and put the bowl inside", "cond": "neg4"}
+{"id": 7154, "task": 4, "init": 39, "instruction": "you must not put the bowl on top of the cabinet", "cond": "neg4"}
+{"id": 7155, "task": 5, "init": 39, "instruction": "you must not push the plate to the front of the stove", "cond": "neg4"}
+{"id": 7156, "task": 6, "init": 39, "instruction": "you must not put the cream cheese in the bowl", "cond": "neg4"}
+{"id": 7157, "task": 7, "init": 39, "instruction": "you must not turn on the stove", "cond": "neg4"}
+{"id": 7158, "task": 8, "init": 39, "instruction": "you must not put the bowl on the plate", "cond": "neg4"}
+{"id": 7159, "task": 9, "init": 39, "instruction": "you must not put the wine bottle on the rack", "cond": "neg4"}

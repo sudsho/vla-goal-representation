@@ -1,0 +1,144 @@
+{"id": 4000, "task": 1, "init": 20, "instruction": "put the bowl on the stove", "cond": "sw10", "instruction2": "put the bowl on the plate", "switch_t": 10, "task2": 8}
+{"id": 4001, "task": 8, "init": 20, "instruction": "put the bowl on the plate", "cond": "sw10", "instruction2": "put the bowl on the stove", "switch_t": 10, "task2": 1}
+{"id": 4002, "task": 4, "init": 20, "instruction": "put the bowl on top of the cabinet", "cond": "sw10", "instruction2": "put the bowl on the plate", "switch_t": 10, "task2": 8}
+{"id": 4003, "task": 8, "init": 20, "instruction": "put the bowl on the plate", "cond": "sw10", "instruction2": "put the bowl on top of the cabinet", "switch_t": 10, "task2": 4}
+{"id": 4004, "task": 2, "init": 20, "instruction": "put the wine bottle on top of the cabinet", "cond": "sw10", "instruction2": "put the wine bottle on the rack", "switch_t": 10, "task2": 9}
+{"id": 4005, "task": 9, "init": 20, "instruction": "put the wine bottle on the rack", "cond": "sw10", "instruction2": "put the wine bottle on top of the cabinet", "switch_t": 10, "task2": 2}
+{"id": 4006, "task": 0, "init": 20, "instruction": "open the middle drawer of the cabinet", "cond": "sw10", "instruction2": "open the top drawer and put the bowl inside", "switch_t": 10, "task2": 3}
+{"id": 4007, "task": 3, "init": 20, "instruction": "open the top drawer and put the bowl inside", "cond": "sw10", "instruction2": "open the middle drawer of the cabinet", "switch_t": 10, "task2": 0}
+{"id": 4008, "task": 7, "init": 20, "instruction": "turn on the stove", "cond": "sw10", "instruction2": "put the bowl on the stove", "switch_t": 10, "task2": 1}
+{"id": 4009, "task": 1, "init": 20, "instruction": "put the bowl on the stove", "cond": "sw10", "instruction2": "turn on the stove", "switch_t": 10, "task2": 7}
+{"id": 4010, "task": 6, "init": 20, "instruction": "put the cream cheese in the bowl", "cond": "sw10", "instruction2": "put the bowl on the plate", "switch_t": 10, "task2": 8}
+{"id": 4011, "task": 8, "init": 20, "instruction": "put the bowl on the plate", "cond": "sw10", "instruction2": "put the cream cheese in the bowl", "switch_t": 10, "task2": 6}
+{"id": 4012, "task": 1, "init": 21, "instruction": "put the bowl on the stove", "cond": "sw10", "instruction2": "put the bowl on the plate", "switch_t": 10, "task2": 8}
+{"id": 4013, "task": 8, "init": 21, "instruction": "put the bowl on the plate", "cond": "sw10", "instruction2": "put the bowl on the stove", "switch_t": 10, "task2": 1}
+{"id": 4014, "task": 4, "init": 21, "instruction": "put the bowl on top of the cabinet", "cond": "sw10", "instruction2": "put the bowl on the plate", "switch_t": 10, "task2": 8}
+{"id": 4015, "task": 8, "init": 21, "instruction": "put the bowl on the plate", "cond": "sw10", "instruction2": "put the bowl on top of the cabinet", "switch_t": 10, "task2": 4}
+{"id": 4016, "task": 2, "init": 21, "instruction": "put the wine bottle on top of the cabinet", "cond": "sw10", "instruction2": "put the wine bottle on the rack", "switch_t": 10, "task2": 9}
+{"id": 4017, "task": 9, "init": 21, "instruction": "put the wine bottle on the rack", "cond": "sw10", "instruction2": "put the wine bottle on top of the cabinet", "switch_t": 10, "task2": 2}
+{"id": 4018, "task": 0, "init": 21, "instruction": "open the middle drawer of the cabinet", "cond": "sw10", "instruction2": "open the top drawer and put the bowl inside", "switch_t": 10, "task2": 3}
+{"id": 4019, "task": 3, "init": 21, "instruction": "open the top drawer and put the bowl inside", "cond": "sw10", "instruction2": "open the middle drawer of the cabinet", "switch_t": 10, "task2": 0}
+{"id": 4020, "task": 7, "init": 21, "instruction": "turn on the stove", "cond": "sw10", "instruction2": "put the bowl on the stove", "switch_t": 10, "task2": 1}
+{"id": 4021, "task": 1, "init": 21, "instruction": "put the bowl on the stove", "cond": "sw10", "instruction2": "turn on the stove", "switch_t": 10, "task2": 7}
+{"id": 4022, "task": 6, "init": 21, "instruction": "put the cream cheese in the bowl", "cond": "sw10", "instruction2": "put the bowl on the plate", "switch_t": 10, "task2": 8}
+{"id": 4023, "task": 8, "init": 21, "instruction": "put the bowl on the plate", "cond": "sw10", "instruction2": "put the cream cheese in the bowl", "switch_t": 10, "task2": 6}
+{"id": 4024, "task": 1, "init": 22, "instruction": "put the bowl on the stove", "cond": "sw10", "instruction2": "put the bowl on the plate", "switch_t": 10, "task2": 8}
+{"id": 4025, "task": 8, "init": 22, "instruction": "put the bowl on the plate", "cond": "sw10", "instruction2": "put the bowl on the stove", "switch_t": 10, "task2": 1}
+{"id": 4026, "task": 4, "init": 22, "instruction": "put the bowl on top of the cabinet", "cond": "sw10", "instruction2": "put the bowl on the plate", "switch_t": 10, "task2": 8}
+{"id": 4027, "task": 8, "init": 22, "instruction": "put the bowl on the plate", "cond": "sw10", "instruction2": "put the bowl on top of the cabinet", "switch_t": 10, "task2": 4}
+{"id": 4028, "task": 2, "init": 22, "instruction": "put the wine bottle on top of the cabinet", "cond": "sw10", "instruction2": "put the wine bottle on the rack", "switch_t": 10, "task2": 9}
+{"id": 4029, "task": 9, "init": 22, "instruction": "put the wine bottle on the rack", "cond": "sw10", "instruction2": "put the wine bottle on top of the cabinet", "switch_t": 10, "task2": 2}
+{"id": 4030, "task": 0, "init": 22, "instruction": "open the middle drawer of the cabinet", "cond": "sw10", "instruction2": "open the top drawer and put the bowl inside", "switch_t": 10, "task2": 3}
+{"id": 4031, "task": 3, "init": 22, "instruction": "open the top drawer and put the bowl inside", "cond": "sw10", "instruction2": "open the middle drawer of the cabinet", "switch_t": 10, "task2": 0}
+{"id": 4032, "task": 7, "init": 22, "instruction": "turn on the stove", "cond": "sw10", "instruction2": "put the bowl on the stove", "switch_t": 10, "task2": 1}
+{"id": 4033, "task": 1, "init": 22, "instruction": "put the bowl on the stove", "cond": "sw10", "instruction2": "turn on the stove", "switch_t": 10, "task2": 7}
+{"id": 4034, "task": 6, "init": 22, "instruction": "put the cream cheese in the bowl", "cond": "sw10", "instruction2": "put the bowl on the plate", "switch_t": 10, "task2": 8}
+{"id": 4035, "task": 8, "init": 22, "instruction": "put the bowl on the plate", "cond": "sw10", "instruction2": "put the cream cheese in the bowl", "switch_t": 10, "task2": 6}
+{"id": 4036, "task": 1, "init": 23, "instruction": "put the bowl on the stove", "cond": "sw10", "instruction2": "put the bowl on the plate", "switch_t": 10, "task2": 8}
+{"id": 4037, "task": 8, "init": 23, "instruction": "put the bowl on the plate", "cond": "sw10", "instruction2": "put the bowl on the stove", "switch_t": 10, "task2": 1}
+{"id": 4038, "task": 4, "init": 23, "instruction": "put the bowl on top of the cabinet", "cond": "sw10", "instruction2": "put the bowl on the plate", "switch_t": 10, "task2": 8}
+{"id": 4039, "task": 8, "init": 23, "instruction": "put the bowl on the plate", "cond": "sw10", "instruction2": "put the bowl on top of the cabinet", "switch_t": 10, "task2": 4}
+{"id": 4040, "task": 2, "init": 23, "instruction": "put the wine bottle on top of the cabinet", "cond": "sw10", "instruction2": "put the wine bottle on the rack", "switch_t": 10, "task2": 9}
+{"id": 4041, "task": 9, "init": 23, "instruction": "put the wine bottle on the rack", "cond": "sw10", "instruction2": "put the wine bottle on top of the cabinet", "switch_t": 10, "task2": 2}
+{"id": 4042, "task": 0, "init": 23, "instruction": "open the middle drawer of the cabinet", "cond": "sw10", "instruction2": "open the top drawer and put the bowl inside", "switch_t": 10, "task2": 3}
+{"id": 4043, "task": 3, "init": 23, "instruction": "open the top drawer and put the bowl inside", "cond": "sw10", "instruction2": "open the middle drawer of the cabinet", "switch_t": 10, "task2": 0}
+{"id": 4044, "task": 7, "init": 23, "instruction": "turn on the stove", "cond": "sw10", "instruction2": "put the bowl on the stove", "switch_t": 10, "task2": 1}
+{"id": 4045, "task": 1, "init": 23, "instruction": "put the bowl on the stove", "cond": "sw10", "instruction2": "turn on the stove", "switch_t": 10, "task2": 7}
+{"id": 4046, "task": 6, "init": 23, "instruction": "put the cream cheese in the bowl", "cond": "sw10", "instruction2": "put the bowl on the plate", "switch_t": 10, "task2": 8}
+{"id": 4047, "task": 8, "init": 23, "instruction": "put the bowl on the plate", "cond": "sw10", "instruction2": "put the cream cheese in the bowl", "switch_t": 10, "task2": 6}
+{"id": 4048, "task": 1, "init": 20, "instruction": "put the bowl on the stove", "cond": "sw25", "instruction2": "put the bowl on the plate", "switch_t": 25, "task2": 8}
+{"id": 4049, "task": 8, "init": 20, "instruction": "put the bowl on the plate", "cond": "sw25", "instruction2": "put the bowl on the stove", "switch_t": 25, "task2": 1}
+{"id": 4050, "task": 4, "init": 20, "instruction": "put the bowl on top of the cabinet", "cond": "sw25", "instruction2": "put the bowl on the plate", "switch_t": 25, "task2": 8}
+{"id": 4051, "task": 8, "init": 20, "instruction": "put the bowl on the plate", "cond": "sw25", "instruction2": "put the bowl on top of the cabinet", "switch_t": 25, "task2": 4}
+{"id": 4052, "task": 2, "init": 20, "instruction": "put the wine bottle on top of the cabinet", "cond": "sw25", "instruction2": "put the wine bottle on the rack", "switch_t": 25, "task2": 9}
+{"id": 4053, "task": 9, "init": 20, "instruction": "put the wine bottle on the rack", "cond": "sw25", "instruction2": "put the wine bottle on top of the cabinet", "switch_t": 25, "task2": 2}
+{"id": 4054, "task": 0, "init": 20, "instruction": "open the middle drawer of the cabinet", "cond": "sw25", "instruction2": "open the top drawer and put the bowl inside", "switch_t": 25, "task2": 3}
+{"id": 4055, "task": 3, "init": 20, "instruction": "open the top drawer and put the bowl inside", "cond": "sw25", "instruction2": "open the middle drawer of the cabinet", "switch_t": 25, "task2": 0}
+{"id": 4056, "task": 7, "init": 20, "instruction": "turn on the stove", "cond": "sw25", "instruction2": "put the bowl on the stove", "switch_t": 25, "task2": 1}
+{"id": 4057, "task": 1, "init": 20, "instruction": "put the bowl on the stove", "cond": "sw25", "instruction2": "turn on the stove", "switch_t": 25, "task2": 7}
+{"id": 4058, "task": 6, "init": 20, "instruction": "put the cream cheese in the bowl", "cond": "sw25", "instruction2": "put the bowl on the plate", "switch_t": 25, "task2": 8}
+{"id": 4059, "task": 8, "init": 20, "instruction": "put the bowl on the plate", "cond": "sw25", "instruction2": "put the cream cheese in the bowl", "switch_t": 25, "task2": 6}
+{"id": 4060, "task": 1, "init": 21, "instruction": "put the bowl on the stove", "cond": "sw25", "instruction2": "put the bowl on the plate", "switch_t": 25, "task2": 8}
+{"id": 4061, "task": 8, "init": 21, "instruction": "put the bowl on the plate", "cond": "sw25", "instruction2": "put the bowl on the stove", "switch_t": 25, "task2": 1}
+{"id": 4062, "task": 4, "init": 21, "instruction": "put the bowl on top of the cabinet", "cond": "sw25", "instruction2": "put the bowl on the plate", "switch_t": 25, "task2": 8}
+{"id": 4063, "task": 8, "init": 21, "instruction": "put the bowl on the plate", "cond": "sw25", "instruction2": "put the bowl on top of the cabinet", "switch_t": 25, "task2": 4}
+{"id": 4064, "task": 2, "init": 21, "instruction": "put the wine bottle on top of the cabinet", "cond": "sw25", "instruction2": "put the wine bottle on the rack", "switch_t": 25, "task2": 9}
+{"id": 4065, "task": 9, "init": 21, "instruction": "put the wine bottle on the rack", "cond": "sw25", "instruction2": "put the wine bottle on top of the cabinet", "switch_t": 25, "task2": 2}
+{"id": 4066, "task": 0, "init": 21, "instruction": "open the middle drawer of the cabinet", "cond": "sw25", "instruction2": "open the top drawer and put the bowl inside", "switch_t": 25, "task2": 3}
+{"id": 4067, "task": 3, "init": 21, "instruction": "open the top drawer and put the bowl inside", "cond": "sw25", "instruction2": "open the middle drawer of the cabinet", "switch_t": 25, "task2": 0}
+{"id": 4068, "task": 7, "init": 21, "instruction": "turn on the stove", "cond": "sw25", "instruction2": "put the bowl on the stove", "switch_t": 25, "task2": 1}
+{"id": 4069, "task": 1, "init": 21, "instruction": "put the bowl on the stove", "cond": "sw25", "instruction2": "turn on the stove", "switch_t": 25, "task2": 7}
+{"id": 4070, "task": 6, "init": 21, "instruction": "put the cream cheese in the bowl", "cond": "sw25", "instruction2": "put the bowl on the plate", "switch_t": 25, "task2": 8}
+{"id": 4071, "task": 8, "init": 21, "instruction": "put the bowl on the plate", "cond": "sw25", "instruction2": "put the cream cheese in the bowl", "switch_t": 25, "task2": 6}
+{"id": 4072, "task": 1, "init": 22, "instruction": "put the bowl on the stove", "cond": "sw25", "instruction2": "put the bowl on the plate", "switch_t": 25, "task2": 8}
+{"id": 4073, "task": 8, "init": 22, "instruction": "put the bowl on the plate", "cond": "sw25", "instruction2": "put the bowl on the stove", "switch_t": 25, "task2": 1}
+{"id": 4074, "task": 4, "init": 22, "instruction": "put the bowl on top of the cabinet", "cond": "sw25", "instruction2": "put the bowl on the plate", "switch_t": 25, "task2": 8}
+{"id": 4075, "task": 8, "init": 22, "instruction": "put the bowl on the plate", "cond": "sw25", "instruction2": "put the bowl on top of the cabinet", "switch_t": 25, "task2": 4}
+{"id": 4076, "task": 2, "init": 22, "instruction": "put the wine bottle on top of the cabinet", "cond": "sw25", "instruction2": "put the wine bottle on the rack", "switch_t": 25, "task2": 9}
+{"id": 4077, "task": 9, "init": 22, "instruction": "put the wine bottle on the rack", "cond": "sw25", "instruction2": "put the wine bottle on top of the cabinet", "switch_t": 25, "task2": 2}
+{"id": 4078, "task": 0, "init": 22, "instruction": "open the middle drawer of the cabinet", "cond": "sw25", "instruction2": "open the top drawer and put the bowl inside", "switch_t": 25, "task2": 3}
+{"id": 4079, "task": 3, "init": 22, "instruction": "open the top drawer and put the bowl inside", "cond": "sw25", "instruction2": "open the middle drawer of the cabinet", "switch_t": 25, "task2": 0}
+{"id": 4080, "task": 7, "init": 22, "instruction": "turn on the stove", "cond": "sw25", "instruction2": "put the bowl on the stove", "switch_t": 25, "task2": 1}
+{"id": 4081, "task": 1, "init": 22, "instruction": "put the bowl on the stove", "cond": "sw25", "instruction2": "turn on the stove", "switch_t": 25, "task2": 7}
+{"id": 4082, "task": 6, "init": 22, "instruction": "put the cream cheese in the bowl", "cond": "sw25", "instruction2": "put the bowl on the plate", "switch_t": 25, "task2": 8}
+{"id": 4083, "task": 8, "init": 22, "instruction": "put the bowl on the plate", "cond": "sw25", "instruction2": "put the cream cheese in the bowl", "switch_t": 25, "task2": 6}
+{"id": 4084, "task": 1, "init": 23, "instruction": "put the bowl on the stove", "cond": "sw25", "instruction2": "put the bowl on the plate", "switch_t": 25, "task2": 8}
+{"id": 4085, "task": 8, "init": 23, "instruction": "put the bowl on the plate", "cond": "sw25", "instruction2": "put the bowl on the stove", "switch_t": 25, "task2": 1}
+{"id": 4086, "task": 4, "init": 23, "instruction": "put the bowl on top of the cabinet", "cond": "sw25", "instruction2": "put the bowl on the plate", "switch_t": 25, "task2": 8}
+{"id": 4087, "task": 8, "init": 23, "instruction": "put the bowl on the plate", "cond": "sw25", "instruction2": "put the bowl on top of the cabinet", "switch_t": 25, "task2": 4}
+{"id": 4088, "task": 2, "init": 23, "instruction": "put the wine bottle on top of the cabinet", "cond": "sw25", "instruction2": "put the wine bottle on the rack", "switch_t": 25, "task2": 9}
+{"id": 4089, "task": 9, "init": 23, "instruction": "put the wine bottle on the rack", "cond": "sw25", "instruction2": "put the wine bottle on top of the cabinet", "switch_t": 25, "task2": 2}
+{"id": 4090, "task": 0, "init": 23, "instruction": "open the middle drawer of the cabinet", "cond": "sw25", "instruction2": "open the top drawer and put the bowl inside", "switch_t": 25, "task2": 3}
+{"id": 4091, "task": 3, "init": 23, "instruction": "open the top drawer and put the bowl inside", "cond": "sw25", "instruction2": "open the middle drawer of the cabinet", "switch_t": 25, "task2": 0}
+{"id": 4092, "task": 7, "init": 23, "instruction": "turn on the stove", "cond": "sw25", "instruction2": "put the bowl on the stove", "switch_t": 25, "task2": 1}
+{"id": 4093, "task": 1, "init": 23, "instruction": "put the bowl on the stove", "cond": "sw25", "instruction2": "turn on the stove", "switch_t": 25, "task2": 7}
+{"id": 4094, "task": 6, "init": 23, "instruction": "put the cream cheese in the bowl", "cond": "sw25", "instruction2": "put the bowl on the plate", "switch_t": 25, "task2": 8}
+{"id": 4095, "task": 8, "init": 23, "instruction": "put the bowl on the plate", "cond": "sw25", "instruction2": "put the cream cheese in the bowl", "switch_t": 25, "task2": 6}
+{"id": 4096, "task": 1, "init": 20, "instruction": "put the bowl on the stove", "cond": "sw50", "instruction2": "put the bowl on the plate", "switch_t": 50, "task2": 8}
+{"id": 4097, "task": 8, "init": 20, "instruction": "put the bowl on the plate", "cond": "sw50", "instruction2": "put the bowl on the stove", "switch_t": 50, "task2": 1}
+{"id": 4098, "task": 4, "init": 20, "instruction": "put the bowl on top of the cabinet", "cond": "sw50", "instruction2": "put the bowl on the plate", "switch_t": 50, "task2": 8}
+{"id": 4099, "task": 8, "init": 20, "instruction": "put the bowl on the plate", "cond": "sw50", "instruction2": "put the bowl on top of the cabinet", "switch_t": 50, "task2": 4}
+{"id": 4100, "task": 2, "init": 20, "instruction": "put the wine bottle on top of the cabinet", "cond": "sw50", "instruction2": "put the wine bottle on the rack", "switch_t": 50, "task2": 9}
+{"id": 4101, "task": 9, "init": 20, "instruction": "put the wine bottle on the rack", "cond": "sw50", "instruction2": "put the wine bottle on top of the cabinet", "switch_t": 50, "task2": 2}
+{"id": 4102, "task": 0, "init": 20, "instruction": "open the middle drawer of the cabinet", "cond": "sw50", "instruction2": "open the top drawer and put the bowl inside", "switch_t": 50, "task2": 3}
+{"id": 4103, "task": 3, "init": 20, "instruction": "open the top drawer and put the bowl inside", "cond": "sw50", "instruction2": "open the middle drawer of the cabinet", "switch_t": 50, "task2": 0}
+{"id": 4104, "task": 7, "init": 20, "instruction": "turn on the stove", "cond": "sw50", "instruction2": "put the bowl on the stove", "switch_t": 50, "task2": 1}
+{"id": 4105, "task": 1, "init": 20, "instruction": "put the bowl on the stove", "cond": "sw50", "instruction2": "turn on the stove", "switch_t": 50, "task2": 7}
+{"id": 4106, "task": 6, "init": 20, "instruction": "put the cream cheese in the bowl", "cond": "sw50", "instruction2": "put the bowl on the plate", "switch_t": 50, "task2": 8}
+{"id": 4107, "task": 8, "init": 20, "instruction": "put the bowl on the plate", "cond": "sw50", "instruction2": "put the cream cheese in the bowl", "switch_t": 50, "task2": 6}
+{"id": 4108, "task": 1, "init": 21, "instruction": "put the bowl on the stove", "cond": "sw50", "instruction2": "put the bowl on the plate", "switch_t": 50, "task2": 8}
+{"id": 4109, "task": 8, "init": 21, "instruction": "put the bowl on the plate", "cond": "sw50", "instruction2": "put the bowl on the stove", "switch_t": 50, "task2": 1}
+{"id": 4110, "task": 4, "init": 21, "instruction": "put the bowl on top of the cabinet", "cond": "sw50", "instruction2": "put the bowl on the plate", "switch_t": 50, "task2": 8}
+{"id": 4111, "task": 8, "init": 21, "instruction": "put the bowl on the plate", "cond": "sw50", "instruction2": "put the bowl on top of the cabinet", "switch_t": 50, "task2": 4}
+{"id": 4112, "task": 2, "init": 21, "instruction": "put the wine bottle on top of the cabinet", "cond": "sw50", "instruction2": "put the wine bottle on the rack", "switch_t": 50, "task2": 9}
+{"id": 4113, "task": 9, "init": 21, "instruction": "put the wine bottle on the rack", "cond": "sw50", "instruction2": "put the wine bottle on top of the cabinet", "switch_t": 50, "task2": 2}
+{"id": 4114, "task": 0, "init": 21, "instruction": "open the middle drawer of the cabinet", "cond": "sw50", "instruction2": "open the top drawer and put the bowl inside", "switch_t": 50, "task2": 3}
+{"id": 4115, "task": 3, "init": 21, "instruction": "open the top drawer and put the bowl inside", "cond": "sw50", "instruction2": "open the middle drawer of the cabinet", "switch_t": 50, "task2": 0}
+{"id": 4116, "task": 7, "init": 21, "instruction": "turn on the stove", "cond": "sw50", "instruction2": "put the bowl on the stove", "switch_t": 50, "task2": 1}
+{"id": 4117, "task": 1, "init": 21, "instruction": "put the bowl on the stove", "cond": "sw50", "instruction2": "turn on the stove", "switch_t": 50, "task2": 7}
+{"id": 4118, "task": 6, "init": 21, "instruction": "put the cream cheese in the bowl", "cond": "sw50", "instruction2": "put the bowl on the plate", "switch_t": 50, "task2": 8}
+{"id": 4119, "task": 8, "init": 21, "instruction": "put the bowl on the plate", "cond": "sw50", "instruction2": "put the cream cheese in the bowl", "switch_t": 50, "task2": 6}
+{"id": 4120, "task": 1, "init": 22, "instruction": "put the bowl on the stove", "cond": "sw50", "instruction2": "put the bowl on the plate", "switch_t": 50, "task2": 8}
+{"id": 4121, "task": 8, "init": 22, "instruction": "put the bowl on the plate", "cond": "sw50", "instruction2": "put the bowl on the stove", "switch_t": 50, "task2": 1}
+{"id": 4122, "task": 4, "init": 22, "instruction": "put the bowl on top of the cabinet", "cond": "sw50", "instruction2": "put the bowl on the plate", "switch_t": 50, "task2": 8}
+{"id": 4123, "task": 8, "init": 22, "instruction": "put the bowl on the plate", "cond": "sw50", "instruction2": "put the bowl on top of the cabinet", "switch_t": 50, "task2": 4}
+{"id": 4124, "task": 2, "init": 22, "instruction": "put the wine bottle on top of the cabinet", "cond": "sw50", "instruction2": "put the wine bottle on the rack", "switch_t": 50, "task2": 9}
+{"id": 4125, "task": 9, "init": 22, "instruction": "put the wine bottle on the rack", "cond": "sw50", "instruction2": "put the wine bottle on top of the cabinet", "switch_t": 50, "task2": 2}
+{"id": 4126, "task": 0, "init": 22, "instruction": "open the middle drawer of the cabinet", "cond": "sw50", "instruction2": "open the top drawer and put the bowl inside", "switch_t": 50, "task2": 3}
+{"id": 4127, "task": 3, "init": 22, "instruction": "open the top drawer and put the bowl inside", "cond": "sw50", "instruction2": "open the middle drawer of the cabinet", "switch_t": 50, "task2": 0}
+{"id": 4128, "task": 7, "init": 22, "instruction": "turn on the stove", "cond": "sw50", "instruction2": "put the bowl on the stove", "switch_t": 50, "task2": 1}
+{"id": 4129, "task": 1, "init": 22, "instruction": "put the bowl on the stove", "cond": "sw50", "instruction2": "turn on the stove", "switch_t": 50, "task2": 7}
+{"id": 4130, "task": 6, "init": 22, "instruction": "put the cream cheese in the bowl", "cond": "sw50", "instruction2": "put the bowl on the plate", "switch_t": 50, "task2": 8}
+{"id": 4131, "task": 8, "init": 22, "instruction": "put the bowl on the plate", "cond": "sw50", "instruction2": "put the cream cheese in the bowl", "switch_t": 50, "task2": 6}
+{"id": 4132, "task": 1, "init": 23, "instruction": "put the bowl on the stove", "cond": "sw50", "instruction2": "put the bowl on the plate", "switch_t": 50, "task2": 8}
+{"id": 4133, "task": 8, "init": 23, "instruction": "put the bowl on the plate", "cond": "sw50", "instruction2": "put the bowl on the stove", "switch_t": 50, "task2": 1}
+{"id": 4134, "task": 4, "init": 23, "instruction": "put the bowl on top of the cabinet", "cond": "sw50", "instruction2": "put the bowl on the plate", "switch_t": 50, "task2": 8}
+{"id": 4135, "task": 8, "init": 23, "instruction": "put the bowl on the plate", "cond": "sw50", "instruction2": "put the bowl on top of the cabinet", "switch_t": 50, "task2": 4}
+{"id": 4136, "task": 2, "init": 23, "instruction": "put the wine bottle on top of the cabinet", "cond": "sw50", "instruction2": "put the wine bottle on the rack", "switch_t": 50, "task2": 9}
+{"id": 4137, "task": 9, "init": 23, "instruction": "put the wine bottle on the rack", "cond": "sw50", "instruction2": "put the wine bottle on top of the cabinet", "switch_t": 50, "task2": 2}
+{"id": 4138, "task": 0, "init": 23, "instruction": "open the middle drawer of the cabinet", "cond": "sw50", "instruction2": "open the top drawer and put the bowl inside", "switch_t": 50, "task2": 3}
+{"id": 4139, "task": 3, "init": 23, "instruction": "open the top drawer and put the bowl inside", "cond": "sw50", "instruction2": "open the middle drawer of the cabinet", "switch_t": 50, "task2": 0}
+{"id": 4140, "task": 7, "init": 23, "instruction": "turn on the stove", "cond": "sw50", "instruction2": "put the bowl on the stove", "switch_t": 50, "task2": 1}
+{"id": 4141, "task": 1, "init": 23, "instruction": "put the bowl on the stove", "cond": "sw50", "instruction2": "turn on the stove", "switch_t": 50, "task2": 7}
+{"id": 4142, "task": 6, "init": 23, "instruction": "put the cream cheese in the bowl", "cond": "sw50", "instruction2": "put the bowl on the plate", "switch_t": 50, "task2": 8}
+{"id": 4143, "task": 8, "init": 23, "instruction": "put the bowl on the plate", "cond": "sw50", "instruction2": "put the cream cheese in the bowl", "switch_t": 50, "task2": 6}

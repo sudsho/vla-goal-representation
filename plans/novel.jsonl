@@ -1,0 +1,48 @@
+{"id": 6000, "task": 0, "init": 40, "instruction": "put the cream cheese on the plate", "cond": "n0", "extra_goals": [["on", "cream_cheese_1", "plate_1"]]}
+{"id": 6001, "task": 1, "init": 40, "instruction": "put the cream cheese on the stove", "cond": "n1", "extra_goals": [["on", "cream_cheese_1", "flat_stove_1_cook_region"]]}
+{"id": 6002, "task": 2, "init": 40, "instruction": "put the cream cheese on top of the cabinet", "cond": "n2", "extra_goals": [["on", "cream_cheese_1", "wooden_cabinet_1_top_side"]]}
+{"id": 6003, "task": 3, "init": 40, "instruction": "put the wine bottle on the stove", "cond": "n3", "extra_goals": [["on", "wine_bottle_1", "flat_stove_1_cook_region"]]}
+{"id": 6004, "task": 4, "init": 40, "instruction": "open the top drawer of the cabinet", "cond": "n4", "extra_goals": [["open", "wooden_cabinet_1_top_region"]]}
+{"id": 6005, "task": 5, "init": 40, "instruction": "put the plate on the stove", "cond": "n5", "extra_goals": [["on", "plate_1", "flat_stove_1_cook_region"]]}
+{"id": 6006, "task": 1, "init": 41, "instruction": "put the cream cheese on the plate", "cond": "n0", "extra_goals": [["on", "cream_cheese_1", "plate_1"]]}
+{"id": 6007, "task": 2, "init": 41, "instruction": "put the cream cheese on the stove", "cond": "n1", "extra_goals": [["on", "cream_cheese_1", "flat_stove_1_cook_region"]]}
+{"id": 6008, "task": 3, "init": 41, "instruction": "put the cream cheese on top of the cabinet", "cond": "n2", "extra_goals": [["on", "cream_cheese_1", "wooden_cabinet_1_top_side"]]}
+{"id": 6009, "task": 4, "init": 41, "instruction": "put the wine bottle on the stove", "cond": "n3", "extra_goals": [["on", "wine_bottle_1", "flat_stove_1_cook_region"]]}
+{"id": 6010, "task": 5, "init": 41, "instruction": "open the top drawer of the cabinet", "cond": "n4", "extra_goals": [["open", "wooden_cabinet_1_top_region"]]}
+{"id": 6011, "task": 6, "init": 41, "instruction": "put the plate on the stove", "cond": "n5", "extra_goals": [["on", "plate_1", "flat_stove_1_cook_region"]]}
+{"id": 6012, "task": 2, "init": 42, "instruction": "put the cream cheese on the plate", "cond": "n0", "extra_goals": [["on", "cream_cheese_1", "plate_1"]]}
+{"id": 6013, "task": 3, "init": 42, "instruction": "put the cream cheese on the stove", "cond": "n1", "extra_goals": [["on", "cream_cheese_1", "flat_stove_1_cook_region"]]}
+{"id": 6014, "task": 4, "init": 42, "instruction": "put the cream cheese on top of the cabinet", "cond": "n2", "extra_goals": [["on", "cream_cheese_1", "wooden_cabinet_1_top_side"]]}
+{"id": 6015, "task": 5, "init": 42, "instruction": "put the wine bottle on the stove", "cond": "n3", "extra_goals": [["on", "wine_bottle_1", "flat_stove_1_cook_region"]]}
+{"id": 6016, "task": 6, "init": 42, "instruction": "open the top drawer of the cabinet", "cond": "n4", "extra_goals": [["open", "wooden_cabinet_1_top_region"]]}
+{"id": 6017, "task": 7, "init": 42, "instruction": "put the plate on the stove", "cond": "n5", "extra_goals": [["on", "plate_1", "flat_stove_1_cook_region"]]}
+{"id": 6018, "task": 3, "init": 43, "instruction": "put the cream cheese on the plate", "cond": "n0", "extra_goals": [["on", "cream_cheese_1", "plate_1"]]}
+{"id": 6019, "task": 4, "init": 43, "instruction": "put the cream cheese on the stove", "cond": "n1", "extra_goals": [["on", "cream_cheese_1", "flat_stove_1_cook_region"]]}
+{"id": 6020, "task": 5, "init": 43, "instruction": "put the cream cheese on top of the cabinet", "cond": "n2", "extra_goals": [["on", "cream_cheese_1", "wooden_cabinet_1_top_side"]]}
+{"id": 6021, "task": 6, "init": 43, "instruction": "put the wine bottle on the stove", "cond": "n3", "extra_goals": [["on", "wine_bottle_1", "flat_stove_1_cook_region"]]}
+{"id": 6022, "task": 7, "init": 43, "instruction": "open the top drawer of the cabinet", "cond": "n4", "extra_goals": [["open", "wooden_cabinet_1_top_region"]]}
+{"id": 6023, "task": 8, "init": 43, "instruction": "put the plate on the stove", "cond": "n5", "extra_goals": [["on", "plate_1", "flat_stove_1_cook_region"]]}
+{"id": 6024, "task": 4, "init": 44, "instruction": "put the cream cheese on the plate", "cond": "n0", "extra_goals": [["on", "cream_cheese_1", "plate_1"]]}
+{"id": 6025, "task": 5, "init": 44, "instruction": "put the cream cheese on the stove", "cond": "n1", "extra_goals": [["on", "cream_cheese_1", "flat_stove_1_cook_region"]]}
+{"id": 6026, "task": 6, "init": 44, "instruction": "put the cream cheese on top of the cabinet", "cond": "n2", "extra_goals": [["on", "cream_cheese_1", "wooden_cabinet_1_top_side"]]}
+{"id": 6027, "task": 7, "init": 44, "instruction": "put the wine bottle on the stove", "cond": "n3", "extra_goals": [["on", "wine_bottle_1", "flat_stove_1_cook_region"]]}
+{"id": 6028, "task": 8, "init": 44, "instruction": "open the top drawer of the cabinet", "cond": "n4", "extra_goals": [["open", "wooden_cabinet_1_top_region"]]}
+{"id": 6029, "task": 9, "init": 44, "instruction": "put the plate on the stove", "cond": "n5", "extra_goals": [["on", "plate_1", "flat_stove_1_cook_region"]]}
+{"id": 6030, "task": 5, "init": 45, "instruction": "put the cream cheese on the plate", "cond": "n0", "extra_goals": [["on", "cream_cheese_1", "plate_1"]]}
+{"id": 6031, "task": 6, "init": 45, "instruction": "put the cream cheese on the stove", "cond": "n1", "extra_goals": [["on", "cream_cheese_1", "flat_stove_1_cook_region"]]}
+{"id": 6032, "task": 7, "init": 45, "instruction": "put the cream cheese on top of the cabinet", "cond": "n2", "extra_goals": [["on", "cream_cheese_1", "wooden_cabinet_1_top_side"]]}
+{"id": 6033, "task": 8, "init": 45, "instruction": "put the wine bottle on the stove", "cond": "n3", "extra_goals": [["on", "wine_bottle_1", "flat_stove_1_cook_region"]]}
+{"id": 6034, "task": 9, "init": 45, "instruction": "open the top drawer of the cabinet", "cond": "n4", "extra_goals": [["open", "wooden_cabinet_1_top_region"]]}
+{"id": 6035, "task": 0, "init": 45, "instruction": "put the plate on the stove", "cond": "n5", "extra_goals": [["on", "plate_1", "flat_stove_1_cook_region"]]}
+{"id": 6036, "task": 6, "init": 46, "instruction": "put the cream cheese on the plate", "cond": "n0", "extra_goals": [["on", "cream_cheese_1", "plate_1"]]}
+{"id": 6037, "task": 7, "init": 46, "instruction": "put the cream cheese on the stove", "cond": "n1", "extra_goals": [["on", "cream_cheese_1", "flat_stove_1_cook_region"]]}
+{"id": 6038, "task": 8, "init": 46, "instruction": "put the cream cheese on top of the cabinet", "cond": "n2", "extra_goals": [["on", "cream_cheese_1", "wooden_cabinet_1_top_side"]]}
+{"id": 6039, "task": 9, "init": 46, "instruction": "put the wine bottle on the stove", "cond": "n3", "extra_goals": [["on", "wine_bottle_1", "flat_stove_1_cook_region"]]}
+{"id": 6040, "task": 0, "init": 46, "instruction": "open the top drawer of the cabinet", "cond": "n4", "extra_goals": [["open", "wooden_cabinet_1_top_region"]]}
+{"id": 6041, "task": 1, "init": 46, "instruction": "put the plate on the stove", "cond": "n5", "extra_goals": [["on", "plate_1", "flat_stove_1_cook_region"]]}
+{"id": 6042, "task": 7, "init": 47, "instruction": "put the cream cheese on the plate", "cond": "n0", "extra_goals": [["on", "cream_cheese_1", "plate_1"]]}
+{"id": 6043, "task": 8, "init": 47, "instruction": "put the cream cheese on the stove", "cond": "n1", "extra_goals": [["on", "cream_cheese_1", "flat_stove_1_cook_region"]]}
+{"id": 6044, "task": 9, "init": 47, "instruction": "put the cream cheese on top of the cabinet", "cond": "n2", "extra_goals": [["on", "cream_cheese_1", "wooden_cabinet_1_top_side"]]}
+{"id": 6045, "task": 0, "init": 47, "instruction": "put the wine bottle on the stove", "cond": "n3", "extra_goals": [["on", "wine_bottle_1", "flat_stove_1_cook_region"]]}
+{"id": 6046, "task": 1, "init": 47, "instruction": "open the top drawer of the cabinet", "cond": "n4", "extra_goals": [["open", "wooden_cabinet_1_top_region"]]}
+{"id": 6047, "task": 2, "init": 47, "instruction": "put the plate on the stove", "cond": "n5", "extra_goals": [["on", "plate_1", "flat_stove_1_cook_region"]]}

@@ -1,0 +1,19 @@
+# Install PyTorch 2.5.1 with CUDA 12.1 first (https://pytorch.org), then LIBERO from source.
+numpy==1.26.4
+scipy
+scikit-learn==1.5.2
+matplotlib
+pillow
+transformers==4.40.1
+tokenizers==0.19.1
+timm==0.9.10
+accelerate==0.30.1
+sentencepiece
+tensorflow-cpu==2.15.1
+robosuite==1.4.1
+mujoco==3.2.3
+bddl==1.0.1
+easydict
+gym==0.25.2
+h5py
+PyYAML

@@ -1,0 +1,32 @@
+{"id": 9000, "task": 1, "init": 45, "instruction": "put the bowl on the stove", "cond": "s2_probe_L16_b1", "task2": 8, "steer": {"layer": 16, "vec": "data/steer/v2_L16_1to8.npy", "beta": 1.0}}
+{"id": 9001, "task": 1, "init": 46, "instruction": "put the bowl on the stove", "cond": "s2_probe_L16_b1", "task2": 8, "steer": {"layer": 16, "vec": "data/steer/v2_L16_1to8.npy", "beta": 1.0}}
+{"id": 9002, "task": 8, "init": 45, "instruction": "put the bowl on the plate", "cond": "s2_probe_L16_b1", "task2": 1, "steer": {"layer": 16, "vec": "data/steer/v2_L16_8to1.npy", "beta": 1.0}}
+{"id": 9003, "task": 8, "init": 46, "instruction": "put the bowl on the plate", "cond": "s2_probe_L16_b1", "task2": 1, "steer": {"layer": 16, "vec": "data/steer/v2_L16_8to1.npy", "beta": 1.0}}
+{"id": 9004, "task": 4, "init": 45, "instruction": "put the bowl on top of the cabinet", "cond": "s2_probe_L16_b1", "task2": 8, "steer": {"layer": 16, "vec": "data/steer/v2_L16_4to8.npy", "beta": 1.0}}
+{"id": 9005, "task": 4, "init": 46, "instruction": "put the bowl on top of the cabinet", "cond": "s2_probe_L16_b1", "task2": 8, "steer": {"layer": 16, "vec": "data/steer/v2_L16_4to8.npy", "beta": 1.0}}
+{"id": 9006, "task": 7, "init": 45, "instruction": "turn on the stove", "cond": "s2_probe_L16_b1", "task2": 1, "steer": {"layer": 16, "vec": "data/steer/v2_L16_7to1.npy", "beta": 1.0}}
+{"id": 9007, "task": 7, "init": 46, "instruction": "turn on the stove", "cond": "s2_probe_L16_b1", "task2": 1, "steer": {"layer": 16, "vec": "data/steer/v2_L16_7to1.npy", "beta": 1.0}}
+{"id": 9008, "task": 1, "init": 45, "instruction": "put the bowl on the stove", "cond": "s2_probe_L16_b2", "task2": 8, "steer": {"layer": 16, "vec": "data/steer/v2_L16_1to8.npy", "beta": 2.0}}
+{"id": 9009, "task": 1, "init": 46, "instruction": "put the bowl on the stove", "cond": "s2_probe_L16_b2", "task2": 8, "steer": {"layer": 16, "vec": "data/steer/v2_L16_1to8.npy", "beta": 2.0}}
+{"id": 9010, "task": 8, "init": 45, "instruction": "put the bowl on the plate", "cond": "s2_probe_L16_b2", "task2": 1, "steer": {"layer": 16, "vec": "data/steer/v2_L16_8to1.npy", "beta": 2.0}}
+{"id": 9011, "task": 8, "init": 46, "instruction": "put the bowl on the plate", "cond": "s2_probe_L16_b2", "task2": 1, "steer": {"layer": 16, "vec": "data/steer/v2_L16_8to1.npy", "beta": 2.0}}
+{"id": 9012, "task": 4, "init": 45, "instruction": "put the bowl on top of the cabinet", "cond": "s2_probe_L16_b2", "task2": 8, "steer": {"layer": 16, "vec": "data/steer/v2_L16_4to8.npy", "beta": 2.0}}
+{"id": 9013, "task": 4, "init": 46, "instruction": "put the bowl on top of the cabinet", "cond": "s2_probe_L16_b2", "task2": 8, "steer": {"layer": 16, "vec": "data/steer/v2_L16_4to8.npy", "beta": 2.0}}
+{"id": 9014, "task": 7, "init": 45, "instruction": "turn on the stove", "cond": "s2_probe_L16_b2", "task2": 1, "steer": {"layer": 16, "vec": "data/steer/v2_L16_7to1.npy", "beta": 2.0}}
+{"id": 9015, "task": 7, "init": 46, "instruction": "turn on the stove", "cond": "s2_probe_L16_b2", "task2": 1, "steer": {"layer": 16, "vec": "data/steer/v2_L16_7to1.npy", "beta": 2.0}}
+{"id": 8500, "task": 1, "init": 45, "instruction": "put the bowl on the stove", "cond": "s2_probe_L20_b1", "task2": 8, "steer": {"layer": 20, "vec": "data/steer/v2_L20_1to8.npy", "beta": 1.0}}
+{"id": 8501, "task": 1, "init": 46, "instruction": "put the bowl on the stove", "cond": "s2_probe_L20_b1", "task2": 8, "steer": {"layer": 20, "vec": "data/steer/v2_L20_1to8.npy", "beta": 1.0}}
+{"id": 8502, "task": 8, "init": 45, "instruction": "put the bowl on the plate", "cond": "s2_probe_L20_b1", "task2": 1, "steer": {"layer": 20, "vec": "data/steer/v2_L20_8to1.npy", "beta": 1.0}}
+{"id": 8503, "task": 8, "init": 46, "instruction": "put the bowl on the plate", "cond": "s2_probe_L20_b1", "task2": 1, "steer": {"layer": 20, "vec": "data/steer/v2_L20_8to1.npy", "beta": 1.0}}
+{"id": 8504, "task": 4, "init": 45, "instruction": "put the bowl on top of the cabinet", "cond": "s2_probe_L20_b1", "task2": 8, "steer": {"layer": 20, "vec": "data/steer/v2_L20_4to8.npy", "beta": 1.0}}
+{"id": 8505, "task": 4, "init": 46, "instruction": "put the bowl on top of the cabinet", "cond": "s2_probe_L20_b1", "task2": 8, "steer": {"layer": 20, "vec": "data/steer/v2_L20_4to8.npy", "beta": 1.0}}
+{"id": 8506, "task": 7, "init": 45, "instruction": "turn on the stove", "cond": "s2_probe_L20_b1", "task2": 1, "steer": {"layer": 20, "vec": "data/steer/v2_L20_7to1.npy", "beta": 1.0}}
+{"id": 8507, "task": 7, "init": 46, "instruction": "turn on the stove", "cond": "s2_probe_L20_b1", "task2": 1, "steer": {"layer": 20, "vec": "data/steer/v2_L20_7to1.npy", "beta": 1.0}}
+{"id": 8508, "task": 1, "init": 45, "instruction": "put the bowl on the stove", "cond": "s2_probe_L20_b2", "task2": 8, "steer": {"layer": 20, "vec": "data/steer/v2_L20_1to8.npy", "beta": 2.0}}
+{"id": 8509, "task": 1, "init": 46, "instruction": "put the bowl on the stove", "cond": "s2_probe_L20_b2", "task2": 8, "steer": {"layer": 20, "vec": "data/steer/v2_L20_1to8.npy", "beta": 2.0}}
+{"id": 8510, "task": 8, "init": 45, "instruction": "put the bowl on the plate", "cond": "s2_probe_L20_b2", "task2": 1, "steer": {"layer": 20, "vec": "data/steer/v2_L20_8to1.npy", "beta": 2.0}}
+{"id": 8511, "task": 8, "init": 46, "instruction": "put the bowl on the plate", "cond": "s2_probe_L20_b2", "task2": 1, "steer": {"layer": 20, "vec": "data/steer/v2_L20_8to1.npy", "beta": 2.0}}
+{"id": 8512, "task": 4, "init": 45, "instruction": "put the bowl on top of the cabinet", "cond": "s2_probe_L20_b2", "task2": 8, "steer": {"layer": 20, "vec": "data/steer/v2_L20_4to8.npy", "beta": 2.0}}
+{"id": 8513, "task": 4, "init": 46, "instruction": "put the bowl on top of the cabinet", "cond": "s2_probe_L20_b2", "task2": 8, "steer": {"layer": 20, "vec": "data/steer/v2_L20_4to8.npy", "beta": 2.0}}
+{"id": 8514, "task": 7, "init": 45, "instruction": "turn on the stove", "cond": "s2_probe_L20_b2", "task2": 1, "steer": {"layer": 20, "vec": "data/steer/v2_L20_7to1.npy", "beta": 2.0}}
+{"id": 8515, "task": 7, "init": 46, "instruction": "turn on the stove", "cond": "s2_probe_L20_b2", "task2": 1, "steer": {"layer": 20, "vec": "data/steer/v2_L20_7to1.npy", "beta": 2.0}}

@@ -1,0 +1,7 @@
+__pycache__/
+*.pyc
+data/runs/
+data/ckpt/
+data/feats/
+data/libero_cfg/config.yaml
+ext/

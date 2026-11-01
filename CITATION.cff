@@ -1,0 +1,18 @@
+cff-version: 1.2.0
+message: "If you use this code, please cite it as below."
+type: software
+title: "Localizing and Editing the Goal Representation of a Vision-Language-Action Model: code"
+authors:
+  - family-names: "Srivastava"
+    given-names: "Sudhanshu"
+    affiliation: "University of Louisville"
+version: "1.0.0"
+date-released: "2026-11-01"
+license: MIT
+repository-code: "https://github.com/sudsho/vla-goal-representation"
+keywords:
+  - vision-language-action models
+  - robot safety
+  - interpretability
+  - activation patching
+  - runtime monitoring

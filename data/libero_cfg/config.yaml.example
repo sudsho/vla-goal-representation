@@ -1,0 +1,5 @@
+benchmark_root: /path/to/LIBERO/libero/libero
+bddl_files: /path/to/LIBERO/libero/libero/bddl_files
+init_states: /path/to/LIBERO/libero/libero/init_files
+datasets: /path/to/LIBERO/libero/datasets
+assets: /path/to/LIBERO/libero/libero/assets

@@ -1,0 +1,60 @@
+{"id": 2100, "task": 0, "init": 30, "instruction": "put the bowl on the", "cond": "t0"}
+{"id": 2101, "task": 1, "init": 30, "instruction": "put the bowl", "cond": "t1"}
+{"id": 2102, "task": 2, "init": 30, "instruction": "put the wine bottle on", "cond": "t2"}
+{"id": 2103, "task": 3, "init": 30, "instruction": "open the", "cond": "t3"}
+{"id": 2104, "task": 4, "init": 30, "instruction": "put the", "cond": "t4"}
+{"id": 2105, "task": 5, "init": 30, "instruction": "", "cond": "t5"}
+{"id": 2106, "task": 1, "init": 31, "instruction": "put the bowl on the", "cond": "t0"}
+{"id": 2107, "task": 2, "init": 31, "instruction": "put the bowl", "cond": "t1"}
+{"id": 2108, "task": 3, "init": 31, "instruction": "put the wine bottle on", "cond": "t2"}
+{"id": 2109, "task": 4, "init": 31, "instruction": "open the", "cond": "t3"}
+{"id": 2110, "task": 5, "init": 31, "instruction": "put the", "cond": "t4"}
+{"id": 2111, "task": 6, "init": 31, "instruction": "", "cond": "t5"}
+{"id": 2112, "task": 2, "init": 32, "instruction": "put the bowl on the", "cond": "t0"}
+{"id": 2113, "task": 3, "init": 32, "instruction": "put the bowl", "cond": "t1"}
+{"id": 2114, "task": 4, "init": 32, "instruction": "put the wine bottle on", "cond": "t2"}
+{"id": 2115, "task": 5, "init": 32, "instruction": "open the", "cond": "t3"}
+{"id": 2116, "task": 6, "init": 32, "instruction": "put the", "cond": "t4"}
+{"id": 2117, "task": 7, "init": 32, "instruction": "", "cond": "t5"}
+{"id": 2118, "task": 3, "init": 33, "instruction": "put the bowl on the", "cond": "t0"}
+{"id": 2119, "task": 4, "init": 33, "instruction": "put the bowl", "cond": "t1"}
+{"id": 2120, "task": 5, "init": 33, "instruction": "put the wine bottle on", "cond": "t2"}
+{"id": 2121, "task": 6, "init": 33, "instruction": "open the", "cond": "t3"}
+{"id": 2122, "task": 7, "init": 33, "instruction": "put the", "cond": "t4"}
+{"id": 2123, "task": 8, "init": 33, "instruction": "", "cond": "t5"}
+{"id": 2124, "task": 4, "init": 34, "instruction": "put the bowl on the", "cond": "t0"}
+{"id": 2125, "task": 5, "init": 34, "instruction": "put the bowl", "cond": "t1"}
+{"id": 2126, "task": 6, "init": 34, "instruction": "put the wine bottle on", "cond": "t2"}
+{"id": 2127, "task": 7, "init": 34, "instruction": "open the", "cond": "t3"}
+{"id": 2128, "task": 8, "init": 34, "instruction": "put the", "cond": "t4"}
+{"id": 2129, "task": 9, "init": 34, "instruction": "", "cond": "t5"}
+{"id": 2130, "task": 5, "init": 35, "instruction": "put the bowl on the", "cond": "t0"}
+{"id": 2131, "task": 6, "init": 35, "instruction": "put the bowl", "cond": "t1"}
+{"id": 2132, "task": 7, "init": 35, "instruction": "put the wine bottle on", "cond": "t2"}
+{"id": 2133, "task": 8, "init": 35, "instruction": "open the", "cond": "t3"}
+{"id": 2134, "task": 9, "init": 35, "instruction": "put the", "cond": "t4"}
+{"id": 2135, "task": 0, "init": 35, "instruction": "", "cond": "t5"}
+{"id": 2136, "task": 6, "init": 36, "instruction": "put the bowl on the", "cond": "t0"}
+{"id": 2137, "task": 7, "init": 36, "instruction": "put the bowl", "cond": "t1"}
+{"id": 2138, "task": 8, "init": 36, "instruction": "put the wine bottle on", "cond": "t2"}
+{"id": 2139, "task": 9, "init": 36, "instruction": "open the", "cond": "t3"}
+{"id": 2140, "task": 0, "init": 36, "instruction": "put the", "cond": "t4"}
+{"id": 2141, "task": 1, "init": 36, "instruction": "", "cond": "t5"}
+{"id": 2142, "task": 7, "init": 37, "instruction": "put the bowl on the", "cond": "t0"}
+{"id": 2143, "task": 8, "init": 37, "instruction": "put the bowl", "cond": "t1"}
+{"id": 2144, "task": 9, "init": 37, "instruction": "put the wine bottle on", "cond": "t2"}
+{"id": 2145, "task": 0, "init": 37, "instruction": "open the", "cond": "t3"}
+{"id": 2146, "task": 1, "init": 37, "instruction": "put the", "cond": "t4"}
+{"id": 2147, "task": 2, "init": 37, "instruction": "", "cond": "t5"}
+{"id": 2148, "task": 8, "init": 38, "instruction": "put the bowl on the", "cond": "t0"}
+{"id": 2149, "task": 9, "init": 38, "instruction": "put the bowl", "cond": "t1"}
+{"id": 2150, "task": 0, "init": 38, "instruction": "put the wine bottle on", "cond": "t2"}
+{"id": 2151, "task": 1, "init": 38, "instruction": "open the", "cond": "t3"}
+{"id": 2152, "task": 2, "init": 38, "instruction": "put the", "cond": "t4"}
+{"id": 2153, "task": 3, "init": 38, "instruction": "", "cond": "t5"}
+{"id": 2154, "task": 9, "init": 39, "instruction": "put the bowl on the", "cond": "t0"}
+{"id": 2155, "task": 0, "init": 39, "instruction": "put the bowl", "cond": "t1"}
+{"id": 2156, "task": 1, "init": 39, "instruction": "put the wine bottle on", "cond": "t2"}
+{"id": 2157, "task": 2, "init": 39, "instruction": "open the", "cond": "t3"}
+{"id": 2158, "task": 3, "init": 39, "instruction": "put the", "cond": "t4"}
+{"id": 2159, "task": 4, "init": 39, "instruction": "", "cond": "t5"}

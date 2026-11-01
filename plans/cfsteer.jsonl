@@ -1,0 +1,36 @@
+{"id": 9700, "task": 0, "init": 45, "instruction": "open the middle drawer of the cabinet", "cond": "cf_L16_b2", "task2": 1, "steer": {"layer": 16, "vec": "data/steer/cf_L16_0to1.npy", "beta": 2.0}}
+{"id": 9701, "task": 0, "init": 46, "instruction": "open the middle drawer of the cabinet", "cond": "cf_L16_b2", "task2": 1, "steer": {"layer": 16, "vec": "data/steer/cf_L16_0to1.npy", "beta": 2.0}}
+{"id": 9702, "task": 0, "init": 47, "instruction": "open the middle drawer of the cabinet", "cond": "cf_L16_b2", "task2": 1, "steer": {"layer": 16, "vec": "data/steer/cf_L16_0to1.npy", "beta": 2.0}}
+{"id": 9703, "task": 0, "init": 45, "instruction": "open the middle drawer of the cabinet", "cond": "cf_L16_b3", "task2": 1, "steer": {"layer": 16, "vec": "data/steer/cf_L16_0to1.npy", "beta": 3.0}}
+{"id": 9704, "task": 0, "init": 46, "instruction": "open the middle drawer of the cabinet", "cond": "cf_L16_b3", "task2": 1, "steer": {"layer": 16, "vec": "data/steer/cf_L16_0to1.npy", "beta": 3.0}}
+{"id": 9705, "task": 0, "init": 47, "instruction": "open the middle drawer of the cabinet", "cond": "cf_L16_b3", "task2": 1, "steer": {"layer": 16, "vec": "data/steer/cf_L16_0to1.npy", "beta": 3.0}}
+{"id": 9706, "task": 1, "init": 45, "instruction": "put the bowl on the stove", "cond": "cf_L16_b2", "task2": 0, "steer": {"layer": 16, "vec": "data/steer/cf_L16_1to0.npy", "beta": 2.0}}
+{"id": 9707, "task": 1, "init": 46, "instruction": "put the bowl on the stove", "cond": "cf_L16_b2", "task2": 0, "steer": {"layer": 16, "vec": "data/steer/cf_L16_1to0.npy", "beta": 2.0}}
+{"id": 9708, "task": 1, "init": 47, "instruction": "put the bowl on the stove", "cond": "cf_L16_b2", "task2": 0, "steer": {"layer": 16, "vec": "data/steer/cf_L16_1to0.npy", "beta": 2.0}}
+{"id": 9709, "task": 1, "init": 45, "instruction": "put the bowl on the stove", "cond": "cf_L16_b3", "task2": 0, "steer": {"layer": 16, "vec": "data/steer/cf_L16_1to0.npy", "beta": 3.0}}
+{"id": 9710, "task": 1, "init": 46, "instruction": "put the bowl on the stove", "cond": "cf_L16_b3", "task2": 0, "steer": {"layer": 16, "vec": "data/steer/cf_L16_1to0.npy", "beta": 3.0}}
+{"id": 9711, "task": 1, "init": 47, "instruction": "put the bowl on the stove", "cond": "cf_L16_b3", "task2": 0, "steer": {"layer": 16, "vec": "data/steer/cf_L16_1to0.npy", "beta": 3.0}}
+{"id": 9712, "task": 2, "init": 45, "instruction": "put the wine bottle on top of the cabinet", "cond": "cf_L16_b2", "task2": 5, "steer": {"layer": 16, "vec": "data/steer/cf_L16_2to5.npy", "beta": 2.0}}
+{"id": 9713, "task": 2, "init": 46, "instruction": "put the wine bottle on top of the cabinet", "cond": "cf_L16_b2", "task2": 5, "steer": {"layer": 16, "vec": "data/steer/cf_L16_2to5.npy", "beta": 2.0}}
+{"id": 9714, "task": 2, "init": 47, "instruction": "put the wine bottle on top of the cabinet", "cond": "cf_L16_b2", "task2": 5, "steer": {"layer": 16, "vec": "data/steer/cf_L16_2to5.npy", "beta": 2.0}}
+{"id": 9715, "task": 2, "init": 45, "instruction": "put the wine bottle on top of the cabinet", "cond": "cf_L16_b3", "task2": 5, "steer": {"layer": 16, "vec": "data/steer/cf_L16_2to5.npy", "beta": 3.0}}
+{"id": 9716, "task": 2, "init": 46, "instruction": "put the wine bottle on top of the cabinet", "cond": "cf_L16_b3", "task2": 5, "steer": {"layer": 16, "vec": "data/steer/cf_L16_2to5.npy", "beta": 3.0}}
+{"id": 9717, "task": 2, "init": 47, "instruction": "put the wine bottle on top of the cabinet", "cond": "cf_L16_b3", "task2": 5, "steer": {"layer": 16, "vec": "data/steer/cf_L16_2to5.npy", "beta": 3.0}}
+{"id": 9718, "task": 5, "init": 45, "instruction": "push the plate to the front of the stove", "cond": "cf_L16_b2", "task2": 2, "steer": {"layer": 16, "vec": "data/steer/cf_L16_5to2.npy", "beta": 2.0}}
+{"id": 9719, "task": 5, "init": 46, "instruction": "push the plate to the front of the stove", "cond": "cf_L16_b2", "task2": 2, "steer": {"layer": 16, "vec": "data/steer/cf_L16_5to2.npy", "beta": 2.0}}
+{"id": 9720, "task": 5, "init": 47, "instruction": "push the plate to the front of the stove", "cond": "cf_L16_b2", "task2": 2, "steer": {"layer": 16, "vec": "data/steer/cf_L16_5to2.npy", "beta": 2.0}}
+{"id": 9721, "task": 5, "init": 45, "instruction": "push the plate to the front of the stove", "cond": "cf_L16_b3", "task2": 2, "steer": {"layer": 16, "vec": "data/steer/cf_L16_5to2.npy", "beta": 3.0}}
+{"id": 9722, "task": 5, "init": 46, "instruction": "push the plate to the front of the stove", "cond": "cf_L16_b3", "task2": 2, "steer": {"layer": 16, "vec": "data/steer/cf_L16_5to2.npy", "beta": 3.0}}
+{"id": 9723, "task": 5, "init": 47, "instruction": "push the plate to the front of the stove", "cond": "cf_L16_b3", "task2": 2, "steer": {"layer": 16, "vec": "data/steer/cf_L16_5to2.npy", "beta": 3.0}}
+{"id": 9724, "task": 4, "init": 45, "instruction": "put the bowl on top of the cabinet", "cond": "cf_L16_b2", "task2": 9, "steer": {"layer": 16, "vec": "data/steer/cf_L16_4to9.npy", "beta": 2.0}}
+{"id": 9725, "task": 4, "init": 46, "instruction": "put the bowl on top of the cabinet", "cond": "cf_L16_b2", "task2": 9, "steer": {"layer": 16, "vec": "data/steer/cf_L16_4to9.npy", "beta": 2.0}}
+{"id": 9726, "task": 4, "init": 47, "instruction": "put the bowl on top of the cabinet", "cond": "cf_L16_b2", "task2": 9, "steer": {"layer": 16, "vec": "data/steer/cf_L16_4to9.npy", "beta": 2.0}}
+{"id": 9727, "task": 4, "init": 45, "instruction": "put the bowl on top of the cabinet", "cond": "cf_L16_b3", "task2": 9, "steer": {"layer": 16, "vec": "data/steer/cf_L16_4to9.npy", "beta": 3.0}}
+{"id": 9728, "task": 4, "init": 46, "instruction": "put the bowl on top of the cabinet", "cond": "cf_L16_b3", "task2": 9, "steer": {"layer": 16, "vec": "data/steer/cf_L16_4to9.npy", "beta": 3.0}}
+{"id": 9729, "task": 4, "init": 47, "instruction": "put the bowl on top of the cabinet", "cond": "cf_L16_b3", "task2": 9, "steer": {"layer": 16, "vec": "data/steer/cf_L16_4to9.npy", "beta": 3.0}}
+{"id": 9730, "task": 9, "init": 45, "instruction": "put the wine bottle on the rack", "cond": "cf_L16_b2", "task2": 4, "steer": {"layer": 16, "vec": "data/steer/cf_L16_9to4.npy", "beta": 2.0}}
+{"id": 9731, "task": 9, "init": 46, "instruction": "put the wine bottle on the rack", "cond": "cf_L16_b2", "task2": 4, "steer": {"layer": 16, "vec": "data/steer/cf_L16_9to4.npy", "beta": 2.0}}
+{"id": 9732, "task": 9, "init": 47, "instruction": "put the wine bottle on the rack", "cond": "cf_L16_b2", "task2": 4, "steer": {"layer": 16, "vec": "data/steer/cf_L16_9to4.npy", "beta": 2.0}}
+{"id": 9733, "task": 9, "init": 45, "instruction": "put the wine bottle on the rack", "cond": "cf_L16_b3", "task2": 4, "steer": {"layer": 16, "vec": "data/steer/cf_L16_9to4.npy", "beta": 3.0}}
+{"id": 9734, "task": 9, "init": 46, "instruction": "put the wine bottle on the rack", "cond": "cf_L16_b3", "task2": 4, "steer": {"layer": 16, "vec": "data/steer/cf_L16_9to4.npy", "beta": 3.0}}
+{"id": 9735, "task": 9, "init": 47, "instruction": "put the wine bottle on the rack", "cond": "cf_L16_b3", "task2": 4, "steer": {"layer": 16, "vec": "data/steer/cf_L16_9to4.npy", "beta": 3.0}}

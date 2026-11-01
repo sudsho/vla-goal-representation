@@ -1,0 +1,17 @@
+\begin{tabular}{lccccccc}
+\toprule
+ & \multicolumn{5}{c}{Redirect not followed ($n{=}180$) vs.\ followed ($n{=}99$)} & \multicolumn{2}{c}{Negation} \\
+\cmidrule(lr){2-6}\cmidrule(lr){7-8}
+Monitor & AUROC & within-pair AUROC & wrong-goal AUROC & TPR & FA & TPR & FA \\
+ & [95\% CI] & [95\% CI] & ($n{=}17$) & & & ($n{=}95$) & ($n{=}25$) \\
+\midrule
+Pair+time prior & 0.96 & 0.76 {\scriptsize[0.63,0.87]} & -- & -- & -- & -- & -- \\
+\midrule
+Goal probe, layer 32 & 0.94 {\scriptsize[0.88,0.98]} & 0.88 {\scriptsize[0.81,0.95]} & 0.96 & 0.88 & 0.13 & 1.00 & 1.00 \\
+Vision+text (DINOv2) & 0.92 {\scriptsize[0.84,0.97]} & 0.87 {\scriptsize[0.78,0.94]} & 0.93 & 0.85 & 0.13 & 1.00 & 1.00 \\
+Object poses$^\ast$ (linear) & 0.90 {\scriptsize[0.83,0.93]} & 0.79 {\scriptsize[0.66,0.87]} & 0.98 & 0.81 & 0.11 & 0.89 & 0.80 \\
+Success probe & 0.87 {\scriptsize[0.78,0.94]} & 0.74 {\scriptsize[0.63,0.87]} & 0.75 & 0.46 & 0.08 & 0.07 & 0.00 \\
+Goal probe, layer 4 & 0.81 {\scriptsize[0.69,0.93]} & 0.67 {\scriptsize[0.55,0.81]} & 0.71 & 0.49 & 0.09 & 1.00 & 1.00 \\
+Action entropy & 0.77 {\scriptsize[0.66,0.85]} & 0.59 {\scriptsize[0.49,0.68]} & 0.67 & 0.39 & 0.07 & 0.21 & 0.19 \\
+\bottomrule
+\end{tabular}

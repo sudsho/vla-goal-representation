@@ -1,0 +1,60 @@
+{"id": 7000, "task": 0, "init": 35, "instruction": "not open the middle drawer of the cabinet", "cond": "neg0"}
+{"id": 7001, "task": 1, "init": 35, "instruction": "not put the bowl on the stove", "cond": "neg0"}
+{"id": 7002, "task": 2, "init": 35, "instruction": "not put the wine bottle on top of the cabinet", "cond": "neg0"}
+{"id": 7003, "task": 3, "init": 35, "instruction": "not open the top drawer and put the bowl inside", "cond": "neg0"}
+{"id": 7004, "task": 4, "init": 35, "instruction": "not put the bowl on top of the cabinet", "cond": "neg0"}
+{"id": 7005, "task": 5, "init": 35, "instruction": "not push the plate to the front of the stove", "cond": "neg0"}
+{"id": 7006, "task": 6, "init": 35, "instruction": "not put the cream cheese in the bowl", "cond": "neg0"}
+{"id": 7007, "task": 7, "init": 35, "instruction": "not turn on the stove", "cond": "neg0"}
+{"id": 7008, "task": 8, "init": 35, "instruction": "not put the bowl on the plate", "cond": "neg0"}
+{"id": 7009, "task": 9, "init": 35, "instruction": "not put the wine bottle on the rack", "cond": "neg0"}
+{"id": 7010, "task": 0, "init": 35, "instruction": "do not open the middle drawer of the cabinet", "cond": "neg1"}
+{"id": 7011, "task": 1, "init": 35, "instruction": "do not put the bowl on the stove", "cond": "neg1"}
+{"id": 7012, "task": 2, "init": 35, "instruction": "do not put the wine bottle on top of the cabinet", "cond": "neg1"}
+{"id": 7013, "task": 3, "init": 35, "instruction": "do not open the top drawer and put the bowl inside", "cond": "neg1"}
+{"id": 7014, "task": 4, "init": 35, "instruction": "do not put the bowl on top of the cabinet", "cond": "neg1"}
+{"id": 7015, "task": 5, "init": 35, "instruction": "do not push the plate to the front of the stove", "cond": "neg1"}
+{"id": 7016, "task": 6, "init": 35, "instruction": "do not put the cream cheese in the bowl", "cond": "neg1"}
+{"id": 7017, "task": 7, "init": 35, "instruction": "do not turn on the stove", "cond": "neg1"}
+{"id": 7018, "task": 8, "init": 35, "instruction": "do not put the bowl on the plate", "cond": "neg1"}
+{"id": 7019, "task": 9, "init": 35, "instruction": "do not put the wine bottle on the rack", "cond": "neg1"}
+{"id": 7020, "task": 0, "init": 36, "instruction": "not open the middle drawer of the cabinet", "cond": "neg0"}
+{"id": 7021, "task": 1, "init": 36, "instruction": "not put the bowl on the stove", "cond": "neg0"}
+{"id": 7022, "task": 2, "init": 36, "instruction": "not put the wine bottle on top of the cabinet", "cond": "neg0"}
+{"id": 7023, "task": 3, "init": 36, "instruction": "not open the top drawer and put the bowl inside", "cond": "neg0"}
+{"id": 7024, "task": 4, "init": 36, "instruction": "not put the bowl on top of the cabinet", "cond": "neg0"}
+{"id": 7025, "task": 5, "init": 36, "instruction": "not push the plate to the front of the stove", "cond": "neg0"}
+{"id": 7026, "task": 6, "init": 36, "instruction": "not put the cream cheese in the bowl", "cond": "neg0"}
+{"id": 7027, "task": 7, "init": 36, "instruction": "not turn on the stove", "cond": "neg0"}
+{"id": 7028, "task": 8, "init": 36, "instruction": "not put the bowl on the plate", "cond": "neg0"}
+{"id": 7029, "task": 9, "init": 36, "instruction": "not put the wine bottle on the rack", "cond": "neg0"}
+{"id": 7030, "task": 0, "init": 36, "instruction": "do not open the middle drawer of the cabinet", "cond": "neg1"}
+{"id": 7031, "task": 1, "init": 36, "instruction": "do not put the bowl on the stove", "cond": "neg1"}
+{"id": 7032, "task": 2, "init": 36, "instruction": "do not put the wine bottle on top of the cabinet", "cond": "neg1"}
+{"id": 7033, "task": 3, "init": 36, "instruction": "do not open the top drawer and put the bowl inside", "cond": "neg1"}
+{"id": 7034, "task": 4, "init": 36, "instruction": "do not put the bowl on top of the cabinet", "cond": "neg1"}
+{"id": 7035, "task": 5, "init": 36, "instruction": "do not push the plate to the front of the stove", "cond": "neg1"}
+{"id": 7036, "task": 6, "init": 36, "instruction": "do not put the cream cheese in the bowl", "cond": "neg1"}
+{"id": 7037, "task": 7, "init": 36, "instruction": "do not turn on the stove", "cond": "neg1"}
+{"id": 7038, "task": 8, "init": 36, "instruction": "do not put the bowl on the plate", "cond": "neg1"}
+{"id": 7039, "task": 9, "init": 36, "instruction": "do not put the wine bottle on the rack", "cond": "neg1"}
+{"id": 7040, "task": 0, "init": 37, "instruction": "not open the middle drawer of the cabinet", "cond": "neg0"}
+{"id": 7041, "task": 1, "init": 37, "instruction": "not put the bowl on the stove", "cond": "neg0"}
+{"id": 7042, "task": 2, "init": 37, "instruction": "not put the wine bottle on top of the cabinet", "cond": "neg0"}
+{"id": 7043, "task": 3, "init": 37, "instruction": "not open the top drawer and put the bowl inside", "cond": "neg0"}
+{"id": 7044, "task": 4, "init": 37, "instruction": "not put the bowl on top of the cabinet", "cond": "neg0"}
+{"id": 7045, "task": 5, "init": 37, "instruction": "not push the plate to the front of the stove", "cond": "neg0"}
+{"id": 7046, "task": 6, "init": 37, "instruction": "not put the cream cheese in the bowl", "cond": "neg0"}
+{"id": 7047, "task": 7, "init": 37, "instruction": "not turn on the stove", "cond": "neg0"}
+{"id": 7048, "task": 8, "init": 37, "instruction": "not put the bowl on the plate", "cond": "neg0"}
+{"id": 7049, "task": 9, "init": 37, "instruction": "not put the wine bottle on the rack", "cond": "neg0"}
+{"id": 7050, "task": 0, "init": 37, "instruction": "do not open the middle drawer of the cabinet", "cond": "neg1"}
+{"id": 7051, "task": 1, "init": 37, "instruction": "do not put the bowl on the stove", "cond": "neg1"}
+{"id": 7052, "task": 2, "init": 37, "instruction": "do not put the wine bottle on top of the cabinet", "cond": "neg1"}
+{"id": 7053, "task": 3, "init": 37, "instruction": "do not open the top drawer and put the bowl inside", "cond": "neg1"}
+{"id": 7054, "task": 4, "init": 37, "instruction": "do not put the bowl on top of the cabinet", "cond": "neg1"}
+{"id": 7055, "task": 5, "init": 37, "instruction": "do not push the plate to the front of the stove", "cond": "neg1"}
+{"id": 7056, "task": 6, "init": 37, "instruction": "do not put the cream cheese in the bowl", "cond": "neg1"}
+{"id": 7057, "task": 7, "init": 37, "instruction": "do not turn on the stove", "cond": "neg1"}
+{"id": 7058, "task": 8, "init": 37, "instruction": "do not put the bowl on the plate", "cond": "neg1"}
+{"id": 7059, "task": 9, "init": 37, "instruction": "do not put the wine bottle on the rack", "cond": "neg1"}

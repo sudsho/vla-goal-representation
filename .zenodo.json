@@ -1,0 +1,23 @@
+{
+  "title": "Localizing and Editing the Goal Representation of a Vision-Language-Action Model: code",
+  "upload_type": "software",
+  "description": "<p>Code and analysis outputs for the paper <em>Localizing and Editing the Goal Representation of a Vision-Language-Action Model</em> (SPAIS Workshop at the 10th Conference on Robot Learning, CoRL 2026). The code studies OpenVLA-7B fine-tuned on LIBERO-Goal. It labels the goal that each closed-loop rollout executes, tests negated and redirected instructions, localizes the goal with activation patching, edits it with patches and steering vectors, and evaluates goal read-outs as runtime monitors.</p>",
+  "creators": [
+    {
+      "name": "Srivastava, Sudhanshu",
+      "affiliation": "University of Louisville"
+    }
+  ],
+  "license": "MIT",
+  "access_right": "open",
+  "version": "1.0.0",
+  "keywords": [
+    "vision-language-action models",
+    "robot safety",
+    "interpretability",
+    "activation patching",
+    "runtime monitoring",
+    "OpenVLA",
+    "LIBERO"
+  ]
+}

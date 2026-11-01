@@ -1,0 +1,18 @@
+{"id": 9800, "task": 0, "init": 45, "instruction": "open the middle drawer of the cabinet", "cond": "stream_L16", "task2": 1, "stream_patch": {"layer": 16, "src": "put the bowl on the stove"}}
+{"id": 9801, "task": 1, "init": 45, "instruction": "put the bowl on the stove", "cond": "stream_L16", "task2": 0, "stream_patch": {"layer": 16, "src": "open the middle drawer of the cabinet"}}
+{"id": 9802, "task": 2, "init": 45, "instruction": "put the wine bottle on top of the cabinet", "cond": "stream_L16", "task2": 5, "stream_patch": {"layer": 16, "src": "push the plate to the front of the stove"}}
+{"id": 9803, "task": 5, "init": 45, "instruction": "push the plate to the front of the stove", "cond": "stream_L16", "task2": 2, "stream_patch": {"layer": 16, "src": "put the wine bottle on top of the cabinet"}}
+{"id": 9804, "task": 4, "init": 45, "instruction": "put the bowl on top of the cabinet", "cond": "stream_L16", "task2": 9, "stream_patch": {"layer": 16, "src": "put the wine bottle on the rack"}}
+{"id": 9805, "task": 9, "init": 45, "instruction": "put the wine bottle on the rack", "cond": "stream_L16", "task2": 4, "stream_patch": {"layer": 16, "src": "put the bowl on top of the cabinet"}}
+{"id": 9806, "task": 0, "init": 46, "instruction": "open the middle drawer of the cabinet", "cond": "stream_L16", "task2": 1, "stream_patch": {"layer": 16, "src": "put the bowl on the stove"}}
+{"id": 9807, "task": 1, "init": 46, "instruction": "put the bowl on the stove", "cond": "stream_L16", "task2": 0, "stream_patch": {"layer": 16, "src": "open the middle drawer of the cabinet"}}
+{"id": 9808, "task": 2, "init": 46, "instruction": "put the wine bottle on top of the cabinet", "cond": "stream_L16", "task2": 5, "stream_patch": {"layer": 16, "src": "push the plate to the front of the stove"}}
+{"id": 9809, "task": 5, "init": 46, "instruction": "push the plate to the front of the stove", "cond": "stream_L16", "task2": 2, "stream_patch": {"layer": 16, "src": "put the wine bottle on top of the cabinet"}}
+{"id": 9810, "task": 4, "init": 46, "instruction": "put the bowl on top of the cabinet", "cond": "stream_L16", "task2": 9, "stream_patch": {"layer": 16, "src": "put the wine bottle on the rack"}}
+{"id": 9811, "task": 9, "init": 46, "instruction": "put the wine bottle on the rack", "cond": "stream_L16", "task2": 4, "stream_patch": {"layer": 16, "src": "put the bowl on top of the cabinet"}}
+{"id": 9812, "task": 0, "init": 47, "instruction": "open the middle drawer of the cabinet", "cond": "stream_L16", "task2": 1, "stream_patch": {"layer": 16, "src": "put the bowl on the stove"}}
+{"id": 9813, "task": 1, "init": 47, "instruction": "put the bowl on the stove", "cond": "stream_L16", "task2": 0, "stream_patch": {"layer": 16, "src": "open the middle drawer of the cabinet"}}
+{"id": 9814, "task": 2, "init": 47, "instruction": "put the wine bottle on top of the cabinet", "cond": "stream_L16", "task2": 5, "stream_patch": {"layer": 16, "src": "push the plate to the front of the stove"}}
+{"id": 9815, "task": 5, "init": 47, "instruction": "push the plate to the front of the stove", "cond": "stream_L16", "task2": 2, "stream_patch": {"layer": 16, "src": "put the wine bottle on top of the cabinet"}}
+{"id": 9816, "task": 4, "init": 47, "instruction": "put the bowl on top of the cabinet", "cond": "stream_L16", "task2": 9, "stream_patch": {"layer": 16, "src": "put the wine bottle on the rack"}}
+{"id": 9817, "task": 9, "init": 47, "instruction": "put the wine bottle on the rack", "cond": "stream_L16", "task2": 4, "stream_patch": {"layer": 16, "src": "put the bowl on top of the cabinet"}}
