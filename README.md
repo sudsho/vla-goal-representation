@@ -1,5 +1,7 @@
 # Localizing and Editing the Goal Representation of a Vision-Language-Action Model
 
+[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.23871372.svg)](https://doi.org/10.5281/zenodo.23871372)
+
 Code and analysis outputs for the paper *Localizing and Editing the Goal Representation of a Vision-Language-Action Model*, presented at the SPAIS Workshop at the 10th Conference on Robot Learning (CoRL 2026), Austin, Texas, USA.
 
 The code studies OpenVLA-7B fine-tuned on LIBERO-Goal. The 10 LIBERO-Goal tasks share one simulated scene, so the goal that each closed-loop rollout executes can be labeled from the goal predicates of all 10 tasks. The code runs negated and redirected instructions, localizes the goal with activation patching, edits it with patches and steering vectors, and evaluates goal read-outs as runtime monitors.
@@ -76,7 +78,7 @@ If you use this code, please cite the paper:
 }
 ```
 
-The archived version of this code is listed in `CITATION.cff`.
+The code is archived on Zenodo with DOI [10.5281/zenodo.23871372](https://doi.org/10.5281/zenodo.23871372) (version 1.0.0). `CITATION.cff` gives the citation for the code.
 
 ## License
 

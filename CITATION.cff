@@ -7,6 +7,7 @@ authors:
     given-names: "Sudhanshu"
     affiliation: "University of Louisville"
 version: "1.0.0"
+doi: "10.5281/zenodo.23871372"
 date-released: "2026-11-01"
 license: MIT
 repository-code: "https://github.com/sudsho/vla-goal-representation"
